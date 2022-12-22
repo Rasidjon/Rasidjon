@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rasidjon
+- 👋 Hi, I’m @Rashidjon
 - 👀 I’m interested in Data Science, Bisuness Analytics
 - 🌱 I’m currently learning SQL, Python, Azure and HTML
 - 💞️ I’m looking to collaborate on evrything
